@@ -27,3 +27,20 @@ ieri ho giocato alla play
 - Porto di mare
 - Scalo san donato
 - San donato
+
+### Metro rossa
+- Duomo
+- San babila
+- Balestro
+- Porta venezia
+- Lima
+- Loreto
+- Pasteur
+- Rovereto
+- Turro
+- Gorila
+- Precotto
+- Villa s. Giovanni
+- Sesto marelli
+- Sesto rondò
+- Sesto 1 Maggio
