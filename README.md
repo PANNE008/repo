@@ -27,4 +27,3 @@ ieri ho giocato alla play
 - Porto di mare
 - Scalo san donato
 - San donato
-
